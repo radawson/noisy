@@ -1,6 +1,5 @@
 
 # Noisy
-[![CircleCI](https://circleci.com/gh/1tayH/noisy/tree/master.svg?style=shield)](https://circleci.com/gh/1tayH/noisy/tree/master)
 
 A simple python script that generates random HTTP/DNS traffic noise in the background while you go about your regular web browsing, to make your web traffic data less valuable for selling and for extra obscurity.
 
@@ -22,7 +21,7 @@ pip install requests
 
 Clone the repository
 ```
-git clone https://github.com/1tayH/noisy.git
+git clone https://github.com/radawson/noisy.git
 ```
 
 Navigate into the `noisy` directory
@@ -97,6 +96,7 @@ Some edge-cases examples are available on the `examples` folder. You can read mo
 ## Authors
 
 * **Itay Hury** - *Initial work* - [1tayH](https://github.com/1tayH)
+* **Richard Dawson** - *UI / updates* - [radawson](https://github.com/radawson)
 
 See also the list of [contributors](https://github.com/1tayH/Noisy/contributors) who participated in this project.
 
